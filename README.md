@@ -15,4 +15,4 @@ comfiguracion basicapara trabajar con el framework de Django
 - 11 Creando el proyecto django-admin startproject  webpapeleria_proy .
 - 12 realizar migracion de proyecto
 - 13 Ejecutar servidor --> python manage.py runserver
-- me trabajo el proyecto
+- me trabajo el proyecto 
