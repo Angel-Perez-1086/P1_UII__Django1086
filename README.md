@@ -13,6 +13,6 @@ comfiguracion basicapara trabajar con el framework de Django
 - 9 actualizar pip -->python -m pip install --upgrade pip
 - 10 Intalar Django --> python -m pip install django
 - 11 Creando el proyecto django-admin startproject  webpapeleria_proy .
-- 12 realizar migracion de proyecto
+- 12 realizar migracion de proyecto --> python manage.py migrate
 - 13 Ejecutar servidor --> python manage.py runserver
 - me trabajo el proyecto 
